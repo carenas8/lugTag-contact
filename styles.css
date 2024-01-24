@@ -70,3 +70,7 @@ body {
     padding-top: 8px;
     padding-bottom: 10px;
 }
+
+.email.value {
+    font-size: smaller;
+}
