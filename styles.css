@@ -74,3 +74,10 @@ body {
 .email.value {
     font-size: smaller;
 }
+
+#caMail {
+    border: none;
+}
+.justEma {
+    width: 95%;
+}
